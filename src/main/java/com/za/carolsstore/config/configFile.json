@@ -1,0 +1,7 @@
+{   
+    "protocol":"jdbc",
+    "subProtocol":"mysql",
+    "ip":"localhost",
+    "port":"3306",
+    "resource":"carolsboutique"
+}
